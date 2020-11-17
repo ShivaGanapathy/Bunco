@@ -1,6 +1,6 @@
 # Bunco
 Bunco is a multiplayer luck-based dice game. 
-- Often played with groups of 4 (2-10 in program) 
+- 2 to 10 player game 
 - Played with 3 dice with 6-26 sides each
 - Number of rounds = Number of sides on dice
 The objective of the game is to finish with the most number of points at the end of the rounds. 
