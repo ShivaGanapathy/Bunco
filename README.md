@@ -11,6 +11,8 @@ Every round has a number called the target value
 - If all numbers rolled are the same, a “Bunco” has been rolled
 Buncos are very rare and greatly benefit the player.
 
+![](BuncoDemo.PNG)
+
 # Program Exceuctution
 Run Bunco.java to play on the command line.
 
